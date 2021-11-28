@@ -23,12 +23,6 @@ test.csv : the testing dataset (2500 rows).
 sample_submission.csv : an example of the submission file.
 Note that you should follow the sample_submission.csv to publish your predictions.
 
-# Submission
-Submit your results with the template in the submission section.
-
-Everyone will have to submit their notebooks.
-
-Be sure to save your model and your weights, you will be asked to submit them if you win.
 
 # Evaluation
 The evaluation metric is the regression (R2) score.
