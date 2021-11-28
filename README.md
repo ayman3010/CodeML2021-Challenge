@@ -1,5 +1,5 @@
 # CodeML2021-Challenge
-This the solution for the challenge 1 for codeML hackathon
+This is the solution for the challenge 1 for codeML hackathon
 # Challenge code description
 Superconductor critical temperature prevision
 This challenge is a regression task for critical temperature prevision.
