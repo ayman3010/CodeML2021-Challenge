@@ -1,4 +1,5 @@
-# CodeML2021-Challenge
+# CodeML2021-Challenge 1
+
 This is my solution for challenge 1 for the codeML hackathon by PolyAI, I used a RandomForestRegressor for this solution i got an 92% accuracy but a DecisionTreeRegressor seems to be working just fine with accuracy reaching 88% , I also tried to use a support machine vector but the accuracy was not as good (84 % ), Data normalization didn't seem to do much difference in terms of accuracy.
 
 The file out.csv contains my submission for the challenge.
